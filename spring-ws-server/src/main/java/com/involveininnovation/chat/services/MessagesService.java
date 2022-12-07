@@ -20,8 +20,6 @@ public class MessagesService {
     }
 
     public void saveMessage(Message message) {
-        Message messageFromDb = messagesRepository.save(message);
-        messageFromDb.setSenderName(messageFromDb.getMessage());
         messagesRepository.save(message);
     }
 }
