@@ -20,4 +20,4 @@ Author: Грудинин Михаил Артемович
 
 At the time of creation I am 16 years old
 
-github: https://github.com/touge13/GrudininSell
+GitHub: https://github.com/touge13/GrudininSell
