@@ -1,23 +1,19 @@
-# ChatApplication
-Spring boot websocket backend and reactjs client
+# GrudininSell project 
 
-[Tutorial Link](https://youtu.be/o_IjEDAuo8Y)
+**Chat:**
+* Server - Spring boot websocket Java  + MySQL
+* Client - ReactJS
 
-Server:
-    - Spring boot Websocket
-
-Client
-    - ReactJS
-
-## ReactJS screen
-
-![Chat screen](img/chat_screen.jpg "Chat screen")
+**Main website:**
+* Backand - Spring boot Java + MySQL
 
 To start:
-    
-### Client
-        - npm install (in the react-client folder)
+
+        - cd .\grudininSellChatJavaScriptReact\src\
         - npm start
-    
-### Server
-        - mvn spring-boot:run (in the spring-ws-server)
+        start ChatApplication.java
+        start GrudininsellApplication.java
+
+Date of creations: throughout 2022
+Author: Грудинин Михаил Артемович
+At the time of creation I am 16 years old

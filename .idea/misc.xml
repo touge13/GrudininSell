@@ -4,6 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-ws-server/pom.xml" />
+        <option value="$PROJECT_DIR$/grudininsell/pom.xml" />
+        <option value="$PROJECT_DIR$/grudininSellMainJavaSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/grudininSellChatJavaSpring/pom.xml" />
       </list>
     </option>
   </component>
